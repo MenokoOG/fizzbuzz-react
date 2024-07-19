@@ -66,7 +66,7 @@ npm run dev
 yarn start
 ```
 
-The application will be available at `http://localhost:3000`.
+
 
 ## Usage
 
